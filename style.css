@@ -1,0 +1,11 @@
+.btn-1{
+    background-color:orange;
+}
+body{
+    background-color: turquoise;
+}
+#showpara_1,#showpara_2{
+    font-style:bold;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
